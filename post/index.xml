@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Strata</title>
-    <link>/post/</link>
+    <link>/hugo/post/</link>
     <description>Recent content in Posts on Strata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jul 2017 12:42:44 +0400</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/hugo/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>/post/first/</link>
+      <link>/hugo/post/first/</link>
       <pubDate>Mon, 03 Jul 2017 12:42:44 +0400</pubDate>
       
-      <guid>/post/first/</guid>
+      <guid>/hugo/post/first/</guid>
       <description></description>
     </item>
     

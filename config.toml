@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/hugo"
 languageCode = "en-us"
 title = "Strata"
 theme = "hugo-strata-theme"
